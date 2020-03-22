@@ -9,6 +9,8 @@ git remote add remotename url
 git push origin master
 git pull origin master
 git status # compares code in ur desktop and remote
+git diff
+
 
 
 
