@@ -1,5 +1,5 @@
-#Learning Git the progate way- 
-# as part of learn @ home iniative
+# Learning Git the progate way- 
+
 
 git init
 git add index.html
@@ -14,7 +14,7 @@ git log # shows just commit
 git log -p ## Show commit and changes
 
 
-
+# as part of learn @ home iniative
 
 
 
